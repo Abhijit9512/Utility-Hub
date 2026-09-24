@@ -1,0 +1,12 @@
+{
+  "name": "UtilityHub - Free Online Tools",
+  "short_name": "UtilityHub",
+  "description": "PDF, image, text, calculator, developer and productivity tools — fast, simple and free.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
